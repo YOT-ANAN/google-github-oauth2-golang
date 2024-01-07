@@ -2,7 +2,7 @@
 
 1. Create `app.env` at root 
 ```sh
-cp  .env.example app.env
+cp  example.env app.env
 ```
 2. install dependencies 
 ```sh
